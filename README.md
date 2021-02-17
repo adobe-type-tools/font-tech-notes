@@ -10,7 +10,7 @@ provided and no guarantee of future availability.
 Please refer to the [licensing terms](LICENSE.md) for information about copying and redistribution.
  
 
-_Note: For technical notes about Adobe® Acrobat® and Adobe PDF font topics, such as ToUnicode tables and Widths-only fonts, see [Advanced Acrobat/PDF technical documentation.](http://www.adobe.com/go/acrobatsdk_distiller)_
+_Note: For technical notes about Adobe® Acrobat® and Adobe PDF font topics, such as ToUnicode tables and Widths-only fonts, see [Advanced Acrobat/PDF technical documentation.](https://www.adobe.com/go/acrobatsdk_distiller)_
 
 Documentation is available in the following areas:
 
